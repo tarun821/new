@@ -1,0 +1,44 @@
+.as{
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+.as1{
+    text-align: center;
+    width:350px;
+    margin:8% auto;
+    padding:20px;
+    border-radius: 20px;
+    background-color: rgba(0,0,0,0.23);
+	box-shadow: 0 0 17px rgb(25, 24, 24);
+
+}
+.mm{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./rolls-royce-exterion-concept-front-ny.jpg);
+}
+.yes{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.no{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.pp{
+    background-color: white;
+    border-radius: 20px;
+}
+.pp:hover{
+    color: white;
+    background-color:rgba(0,0,0,0.23);
+}
+.hi{
+    color: black;
+}
+.hi:hover{
+    background-color:rgba(0,0,0,0.23);
+    color: white;
+}
